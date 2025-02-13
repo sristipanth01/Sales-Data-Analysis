@@ -58,7 +58,6 @@ Key insights derived from the dashboard include:
 
 ### Dashboard View
 ![Image](https://github.com/user-attachments/assets/dc6488e6-081c-4cb6-906c-388ed4d9000c)
-![Sales Data Analysis Dashboard](./path/to/image.png) *(Replace with actual image path)*
 
 ---
 
